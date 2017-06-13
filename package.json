@@ -1,6 +1,6 @@
 {
-  "name": "jsonresume-theme-kendall",
-  "version": "0.1.18",
+  "name": "jsonresume-theme-swri",
+  "version": "0.1.19",
   "description": "A JSON Resume theme built with bootstrap",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/linuxbozo/jsonresume-theme-kendall.git"
+    "url": "https://github.com/linuxbozo/jsonresume-theme-swri.git"
   },
   "keywords": [
     "json",
